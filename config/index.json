@@ -1,0 +1,4 @@
+{
+  "dbUri": "mongodb://natevillegas:password@ds155414.mlab.com:55414/travelbud",
+  "jwtSecret": "a secret phrase!!"
+}
